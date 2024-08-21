@@ -1,0 +1,14 @@
+[
+  {
+    "name": "test_adjust_recipe",
+    "function": "test_adjust_recipe",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_load_recipe",
+    "function": "test_load_recipe",
+    "timeout": 10,
+    "points": 1
+  }
+]
